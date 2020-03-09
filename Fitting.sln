@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitting", "Fitting\Fitting.csproj", "{31A27343-CB9D-4015-8434-F670C9A89EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FittingV2", "FittingV2\FittingV2.csproj", "{EC927656-3B4B-4D0A-91CF-CB64682BBB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A27343-CB9D-4015-8434-F670C9A89EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A27343-CB9D-4015-8434-F670C9A89EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A27343-CB9D-4015-8434-F670C9A89EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A27343-CB9D-4015-8434-F670C9A89EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC927656-3B4B-4D0A-91CF-CB64682BBB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC927656-3B4B-4D0A-91CF-CB64682BBB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC927656-3B4B-4D0A-91CF-CB64682BBB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC927656-3B4B-4D0A-91CF-CB64682BBB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
